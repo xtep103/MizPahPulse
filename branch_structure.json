@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/api-hardening-and-observability",
+    "feat/web-frontend-ux-a11y-improvements",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/api-hardening-and-observability": "main",
+    "feat/web-frontend-ux-a11y-improvements": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/api-hardening-and-observability",
+    "feat/web-frontend-ux-a11y-improvements",
+    "origin"
+  ]
+}
